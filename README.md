@@ -1,6 +1,5 @@
 # Hi, I'm Mudita 👋🏻 👨🏻‍💻
-<h3 align="center"> Java Web Developer | Problem Solver | Open-source contributor </h3>
-<hr>
+<h3 align="center"> Developer with a strong knowledge of Spring Boot and microservices, alongside full-stack development expertise. Experienced in developing robust backend systems and scalable web applications. Skilled in building and deploying end-to-end solutions that are secure and efficient. </h3>
 
 ## 🚀 Skills :
 
