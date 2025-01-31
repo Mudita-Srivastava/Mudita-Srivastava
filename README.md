@@ -61,6 +61,6 @@
 <p align="left">
 <a href = "mailto::muditasrivastava2020@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/mudita-srivastava-b49212200"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Mudita-Srivastava"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "[https://twitter.com/Mudita-Srivastava](https://x.com/Mudita_18)"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = ""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 </p>
