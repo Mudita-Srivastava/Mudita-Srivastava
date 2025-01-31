@@ -44,11 +44,20 @@
  
 ### Tools
 <p float="left">
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
- 
-  <a href = "https://cloud.google.com/gcp/"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a>
-</p>   
- <hr>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    </a>
+    <a href="https://cloud.google.com/gcp/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+    </a>
+    <a href="https://www.postman.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+    </a>
+    <a href="https://spring.io/tools" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    </a>
+</p>
+<hr>
 
   ## 📊 Stats (Expand to View) 
   
