@@ -1,5 +1,6 @@
-# Hi, I'm Mudita 👋🏻 👨🏻‍💻
+# Hi, I'm Mudita 👋🏻
 <h3 align="center"> Developer with a strong knowledge of Spring Boot and microservices, alongside full-stack development expertise. Experienced in developing robust backend systems and scalable web applications. Skilled in building and deploying end-to-end solutions that are secure and efficient. </h3>
+<hr>
 
 ## 🚀 Skills :
 
@@ -55,28 +56,11 @@
 </p>
 <hr>
 
-  ## 📊 Stats (Expand to View) 
-  
-  <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-<p align="center"> <img src="" alt="mudita" />
-</details>
-
-  
-
-
- 
-<details>
-<summary><b>📈 Leetcode Stats</b></summary>
-<p align="center"><img align="center" src="" alt="mudita" /></p>
-</details>
-<hr>
 
 ## ❤ Connect with me :
 <p align="left">
 <a href = "mailto::muditasrivastava2020@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/mudita-srivastava-b49212200"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Mudita-Srivastava"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 <a href = ""><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 </p>
