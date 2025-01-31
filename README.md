@@ -50,9 +50,6 @@
     <a href="https://cloud.google.com/gcp/" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
     </a>
-    <a href="https://www.postman.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Postman_logo_2022.svg" width="48" height="48"/>
-</a>
     <a href="https://spring.io/tools" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
     </a>
