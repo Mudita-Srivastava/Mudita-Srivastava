@@ -6,10 +6,16 @@
 
 ### Languages
 <p float="left">
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    </a> 
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    </a>
+    
 </p>
 
 ### Frameworks
