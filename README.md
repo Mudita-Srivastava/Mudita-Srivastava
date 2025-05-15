@@ -1,5 +1,10 @@
 # Hi, I'm Mudita 👋🏻
-<h3 align="center"> Developer with a strong knowledge of Spring Boot and microservices, alongside full-stack development expertise. Experienced in developing robust backend systems and scalable web applications. Skilled in building and deploying end-to-end solutions that are secure and efficient. </h3>
+<h3 align="center"> Software Engineering with hands-on experience in building secure and scalable backend applications using
+Node.js, Express.js, and MongoDB. Skilled in designing RESTful APIs, implementing JWT-based authentication.
+Proven ability to optimize backend workflows through middleware architecture, efficient data modeling with
+Mongoose, and real-time request handling. Adept at collaborating in agile teams to deliver robust backend systems that
+support performance, scalability, and seamless integration with frontend services.
+ </h3>
 <hr>
 
 ## 🚀 Skills :
