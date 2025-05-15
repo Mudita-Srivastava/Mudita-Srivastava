@@ -1,5 +1,5 @@
 # Hi, I'm Mudita 👋🏻
-<h3 align="center"> Software Engineering with hands-on experience in building secure and scalable backend applications using
+<h3 align="center"> Software Engineer with hands-on experience in building secure and scalable backend applications using
 Node.js, Express.js, and MongoDB. Skilled in designing RESTful APIs, implementing JWT-based authentication.
 Proven ability to optimize backend workflows through middleware architecture, efficient data modeling with
 Mongoose, and real-time request handling. Adept at collaborating in agile teams to deliver robust backend systems that
